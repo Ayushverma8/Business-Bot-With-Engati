@@ -37,7 +37,7 @@ For Eg- For a Restuarant Bot, to view menu you can have FAQs like - "Show me the
 ## Building the Idea
 We started by charting out the various major features/information and functionalities the bot could offer to the user-
 
-Given below is an brief list of functionalities of the bot-
+Given below is a brief list of functionalities of the bot-
 
 **Services & Stores Catalogue** - Gives a carousel of services, stores and amenities in the mall.
   
