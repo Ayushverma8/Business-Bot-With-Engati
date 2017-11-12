@@ -59,7 +59,7 @@ While creating paths we came across two cool features of the platform-
 1. **Add a Node** - This basically allowed us to communicate with the user in every way possible.
 ![Node-picture](https://image.prntscr.com/image/qtzdY7V_SaSkGkr1abHg3g.png "Engati Nodes")
 
-2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like this- {{var_name}}.
+2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like {{var_name}}.
 ![var-picture](https://image.prntscr.com/image/xvBJtzg8QnqK-F1HTX0TAQ.png "Engati Var")
 
 ### Defining FAQs
@@ -70,3 +70,30 @@ This is how we did that -
 ![FAQ](https://image.prntscr.com/image/1OTCu6wST_GopNp7wD1gKQ.png "FAQ pic")
 
 The picture above shows some classified sample utterances for trigger paths. 
+
+### Integrating Back-End with Engati
+
+## Configuring Channels
+Once we were done building the bot, we decided to integrate and test it out on platforms like - Facebook Messenger and our own website.
+
+Configuring Facebook Messenger as a channel took just 5-10 minutes, the bot was live in ASAP.
+
+![FB](https://image.prntscr.com/image/W_WFzpk0S1y4DVd1CyQ5gQ.png "Fb")
+
+For adding the bot to our website, we just had to add a few scripts in the HTML code and it was up and running!
+
+![web](https://image.prntscr.com/image/oTBUmI1ESme3viJ6rr6FRQ.png "web")
+
+## Main Takeaway
+* The platform allowed us to create, train and deploy a chatbot on multiple channels, in minutes, without writing any code.
+
+* The platform’s ability to deploy continuously saved a lot of our time while testing out flows and features.
+
+* We were able to connect our bot to Facebook Messenger channel and configure the persistent menus without going through Facebook’s Messenger App Review.
+
+* The platform is intuitive (better than API.AI), well defined and has a pretty easy learning curve, it provided us with a wide array of ways to interact with the user.
+
+* The pre-configured ability of bot to handle small-talk is pretty great and keeps the conversation flow intact.
+
+* The comprehensive analytics offered by the platform (user engagement and retention) are pretty great and saves the pain of using 3rd party tools like Bot Analytics (https://botanalytics.co/)
+
