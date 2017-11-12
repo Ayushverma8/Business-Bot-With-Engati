@@ -52,7 +52,7 @@ Given below is an brief list of functionalities of the bot-
 ### Defining Paths
 We started out by covering basic features of the bot, but the platform's rich features allowed us to create upto 20 paths covering almost all features we thought of comprehensively.
 
-[Path-picture](https://image.prntscr.com/image/ufXm2CkWQr_Wj2ETMqJagw.png)
+![Path-picture](https://image.prntscr.com/image/ufXm2CkWQr_Wj2ETMqJagw.png "Engati Paths")
 
 
 
