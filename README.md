@@ -88,6 +88,13 @@ For adding the bot to our website, we just had to add a few scripts in the HTML 
 
 ![web](https://image.prntscr.com/image/oTBUmI1ESme3viJ6rr6FRQ.png "web")
 
+## Analytics
+What's the point of creating a business bot if you can't increase your conversion rate or retain customers?
+
+Engati's platform offers just the right tools to keep track of things like Button Actions, Most Frequent Messages, Messages Received vs Sent, Average Messages and Actions per user.
+
+![analytic](https://image.prntscr.com/image/8pzBinr9T6KKF-X-hX3Rew.png "botana")
+
 ## Main Takeaway
 * The platform allowed us to create, train and deploy a chatbot on multiple channels, in minutes, without writing any code.
 
