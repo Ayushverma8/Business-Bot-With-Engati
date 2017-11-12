@@ -1,6 +1,10 @@
-# Overview
+# Why Chatbots?
 Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers.
 They have grown and improved to capitalize on social media and messenger platforms. Most people haven’t openly identified the true potential of chatbots, so this article is designed to act as a guide to build chatbots on Engati Platform.
+
+The number of businesses using chatbots has grown exponentially. Chatbots docked to Facebook’s Messenger have increased from 30,000 in 2016 to over 100,000 today. Every major company has announced their own chatbot and 60% of the youth population uses them daily.
+
+These statistics prove that chatbots are the new-gen tech. No more waiting for the right time to incorporate them into your business. The time is now. By the year 2020, nearly 80% of businesses will have their own chatbot.
 
 *Billions of people are already using chatbots, so it’s time your business did too.*
 
