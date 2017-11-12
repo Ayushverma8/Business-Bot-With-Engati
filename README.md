@@ -28,25 +28,31 @@ For Eg- For a Restaurant Bot you may have paths like - View Menu, Order, Cancel 
 
 For Eg- For a Restuarant Bot, to view menu you can have FAQs like - "Show me the menu", "What cuisines do you serve?", "Can I see the menu?" etc
 
+**Note** - Apart from the mentioned functionalities, Engati also offers a lot of other smart features which we are going to find out about as we proceed.
+
 ## Building the Idea
-We started by charting out the various features/information and functionalities the bot could offer to the user-
+We started by charting out the various major features/information and functionalities the bot could offer to the user-
 
 Given below is an brief list of functionalities of the bot-
 
-*Services & Stores Catalogue* - Gives a carousel of services, stores and amenities in the mall.
+**Services & Stores Catalogue** - Gives a carousel of services, stores and amenities in the mall.
   
-*Shop Categories* - Gives a carousel of shop categories in the mall.
+**Shop Categories** - Gives a carousel of shop categories in the mall.
 
-*Eat/Restaurant Categories* - Gives a carousel of the cuisines served at various restaurants in the mall. 
+**Eat/Restaurant Categories** - Gives a carousel of the cuisines served at various restaurants in the mall. 
  
-*Entertainment Categories* - Gives a carousel of all cinema halls, bars and gaming zones in the mall. 
+**Entertainment Categories** - Gives a carousel of all cinema halls, bars and gaming zones in the mall. 
 
-*Utilities Categories* - Gives a carousel of all mall-amenities. 
+**Utilities Categories** - Gives a carousel of all mall-amenities. 
 
-*Offers* - Gives a list of current offers in stores. 
+**Offers** - Gives a list of current offers in stores. 
 
-*Help* - Provides mall help-desk contact and services/stores in mall. 
+**Help** - Provides mall help-desk contact and services/stores in mall. 
 
+### Defining Paths
+We started out by covering basic features of the bot, but the platform's rich features allowed us to create upto 20 paths covering almost all features we thought of comprehensively.
+
+[Path-picture](https://image.prntscr.com/image/ufXm2CkWQr_Wj2ETMqJagw.png)
 
 
 
