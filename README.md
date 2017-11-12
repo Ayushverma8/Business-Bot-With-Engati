@@ -75,12 +75,12 @@ This is how we did that -
 
 The picture above shows some classified sample utterances for trigger paths. 
 
-### Integrating Back-End with Engati
+## Integrating Back-End with Engati
 
 * Get a full REST API for Consuming GET Request , Specially defined for Engati flavored Schema
 
 * Useful for developers who need a quick back-end for prototyping and mocking
-## Example
+### Example
 ![Image of Code](https://raw.githubusercontent.com/Ayushverma8/Engati-API-Starter/master/carbon%20(1).png?token=AOo3d-034P45jv13OSd2oCvNzSKmlBawks5aD_SNwA%3D%3D)
 
 Create a `engati.json` file
@@ -113,7 +113,7 @@ Create a `engati.json` file
 }
 
 ```
-## Start JSON Server
+### Start JSON Server
 
 ```bash
 $ npm start
