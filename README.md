@@ -61,9 +61,11 @@ We started out by covering basic features of the bot, but the platform's rich fe
 While creating paths we came across two cool features of the platform-
 
 1. **Add a Node** - This basically allowed us to communicate with the user in every way possible.
+
 ![Node-picture](https://image.prntscr.com/image/qtzdY7V_SaSkGkr1abHg3g.png "Engati Nodes")
 
-2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like {{var_name}}.
+2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like "{{var_name}}".
+
 ![var-picture](https://image.prntscr.com/image/xvBJtzg8QnqK-F1HTX0TAQ.png "Engati Var")
 
 ### Defining FAQs
