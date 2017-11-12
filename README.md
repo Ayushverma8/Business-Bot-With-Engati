@@ -64,7 +64,7 @@ While creating paths we came across two cool features of the platform-
 
 ![Node-picture](https://image.prntscr.com/image/qtzdY7V_SaSkGkr1abHg3g.png "Engati Nodes")
 
-2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like "{{var_name}}".
+2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform.
 
 ![var-picture](https://image.prntscr.com/image/xvBJtzg8QnqK-F1HTX0TAQ.png "Engati Var")
 
