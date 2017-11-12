@@ -16,5 +16,37 @@ The bot is targeted for *Malls/Supermarkets/Shopping Complexes*.
 
 This bot is aimed to provide *assistance to all people visiting the mall regardless of age*. Since, it provides an ability to explore an a huge area quickly, it will be of *great use for tourists and first-time visitors* who have no idea about the location of stores within the mall.
 
+## How does Engati work?
+This is very simple - Engati offers two major functionalities to help create the bot- **Paths** & **FAQs**. 
+
+*Paths* can be defined as different waterfalls or flows which the bot can take. They define what the bot is going to reply to user in case of a specific intent.
+
+For Eg- For a Restaurant Bot you may have paths like - View Menu, Order, Cancel Order, View Discounts, Track Order etc
+
+
+*FAQs* define the many ways a bot could interact with the user. This functionality allows you to define various utterances/phrases for the defined paths. 
+
+For Eg- For a Restuarant Bot, to view menu you can have FAQs like - "Show me the menu", "What cuisines do you serve?", "Can I see the menu?" etc
+
+## Building the Idea
+We started by charting out the various features/information and functionalities the bot could offer to the user-
+
+Given below is an brief list of functionalities of the bot-
+
+*Services & Stores Catalogue* - Gives a carousel of services, stores and amenities in the mall.
+  
+*Shop Categories* - Gives a carousel of shop categories in the mall.
+
+*Eat/Restaurant Categories* - Gives a carousel of the cuisines served at various restaurants in the mall. 
+ 
+*Entertainment Categories* - Gives a carousel of all cinema halls, bars and gaming zones in the mall. 
+
+*Utilities Categories* - Gives a carousel of all mall-amenities. 
+
+*Offers* - Gives a list of current offers in stores. 
+
+*Help* - Provides mall help-desk contact and services/stores in mall. 
+
+
 
 
