@@ -45,7 +45,7 @@ Given below is an brief list of functionalities of the bot-
 
 **Utilities Categories** - Gives a carousel of all mall-amenities. 
 
-**Offers** - Gives a list of current offers in stores. 
+**Offers** - Gives a list of current offers in stores.(From Mall-Backend) 
 
 **Help** - Provides mall help-desk contact and services/stores in mall. 
 
@@ -54,5 +54,19 @@ We started out by covering basic features of the bot, but the platform's rich fe
 
 ![Path-picture](https://image.prntscr.com/image/ufXm2CkWQr_Wj2ETMqJagw.png "Engati Paths")
 
+While creating paths we came across two cool features of the platform-
 
+1. **Add a Node** - This basically allowed us to communicate with the user in every way possible.
+![Node-picture](https://image.prntscr.com/image/qtzdY7V_SaSkGkr1abHg3g.png "Engati Nodes")
 
+2. **Declaring & Accessing Variables** - We can readily access variables with key user-data anywhere on the platform like this- {{var_name}}.
+![var-picture](https://image.prntscr.com/image/xvBJtzg8QnqK-F1HTX0TAQ.png "Engati Var")
+
+### Defining FAQs
+Now, this was a fun part. We had to define and train the bot with utterances/FAQs which will be used to trigger any of the paths we defined above.
+
+This is how we did that -
+
+![FAQ](https://image.prntscr.com/image/1OTCu6wST_GopNp7wD1gKQ.png "FAQ pic")
+
+The picture above shows some classified sample utterances for trigger paths. 
